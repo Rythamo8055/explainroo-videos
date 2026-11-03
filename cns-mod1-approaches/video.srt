@@ -1,0 +1,164 @@
+1
+00:00:00,556 --> 00:00:02,606
+Security is not one tool.
+
+2
+00:00:03,156 --> 00:00:05,886
+It is an approach plus
+a set of principles.
+
+3
+00:00:06,436 --> 00:00:09,366
+Both matter,
+and both come from the syllabus.
+
+4
+00:00:11,122 --> 00:00:13,732
+Stallings gives three security approaches.
+
+5
+00:00:14,327 --> 00:00:17,097
+Preventive stops an
+attack before it happens.
+
+6
+00:00:17,647 --> 00:00:20,257
+Detective notices it while it happens.
+
+7
+00:00:20,862 --> 00:00:23,092
+Corrective fixes it after it happens.
+
+8
+00:00:24,856 --> 00:00:27,426
+Preventive mechanisms block the attack.
+
+9
+00:00:27,911 --> 00:00:28,861
+Encryption.
+
+10
+00:00:29,376 --> 00:00:30,406
+Firewalls.
+
+11
+00:00:30,921 --> 00:00:32,151
+Access control.
+
+12
+00:00:32,801 --> 00:00:34,511
+Stop it before it starts.
+
+13
+00:00:36,056 --> 00:00:37,326
+Detective mechanisms
+
+14
+00:00:37,736 --> 00:00:38,806
+watch for trouble.
+
+15
+00:00:39,251 --> 00:00:40,601
+Intrusion detection.
+
+16
+00:00:41,331 --> 00:00:42,281
+Audit logs.
+
+17
+00:00:42,931 --> 00:00:44,661
+Catch it while it is happening.
+
+18
+00:00:46,422 --> 00:00:48,852
+Corrective mechanisms clean up after.
+
+19
+00:00:49,367 --> 00:00:50,137
+Patches.
+
+20
+00:00:50,742 --> 00:00:52,312
+Recovery procedures.
+
+21
+00:00:52,912 --> 00:00:54,802
+Fix the damage and move on.
+
+22
+00:00:56,456 --> 00:00:58,126
+Kahate gives the principles.
+
+23
+00:00:58,761 --> 00:01:00,011
+Defense in depth:
+
+24
+00:01:00,581 --> 00:01:01,511
+layered protection,
+
+25
+00:01:02,001 --> 00:01:03,991
+no single mechanism suffices.
+
+26
+00:01:04,606 --> 00:01:07,676
+Least privilege:
+minimum permissions needed.
+
+27
+00:01:08,241 --> 00:01:11,031
+Fail-safe defaults: deny by default.
+
+28
+00:01:12,789 --> 00:01:13,639
+Three more.
+
+29
+00:01:14,179 --> 00:01:15,629
+Economy of mechanism:
+
+30
+00:01:16,339 --> 00:01:19,549
+small, simple designs
+are easier to verify.
+
+31
+00:01:20,339 --> 00:01:21,489
+Complete mediation:
+
+32
+00:01:21,959 --> 00:01:23,209
+check every access.
+
+33
+00:01:23,904 --> 00:01:28,834
+Psychological acceptability:
+security must not impede usability.
+
+34
+00:01:30,656 --> 00:01:31,886
+Two final ones.
+
+35
+00:01:32,506 --> 00:01:37,536
+Weakest link: security level equals
+the security of the weakest component.
+
+36
+00:01:38,136 --> 00:01:43,686
+Separation of duties: split duties
+so collusion is required to subvert.
+
+37
+00:01:45,356 --> 00:01:48,146
+Approaches stop, find and fix attacks.
+
+38
+00:01:48,751 --> 00:01:50,501
+Principles guide the design.
+
+39
+00:01:51,056 --> 00:01:52,946
+Everything else builds on these.
+

@@ -1,0 +1,53 @@
+{
+  "file": "/home/rythamo/explainroo/videos/cns-mod1-keysize/out/video.mp4",
+  "duration": 83.1,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "codec": "h264"
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  "loudness": {
+    "integrated": -14,
+    "range": 3.6,
+    "truePeak": -1.4
+  },
+  "blackSegments": [],
+  "silences": [],
+  "speech": {
+    "matchRate": 0.995,
+    "transcript": "A cipher is only as strong as its key. If the key space is small, an attacker tries them all. Key space is the set of all possible keys. For a 70-bit key, that is about 10 to the 21 keys. Cahate's Rule of Thumb. 70 bits needed for a key space of 10 to the 21. Each bit doubles the work. A k-bit key costs about c times 2 to the k minus 1 to exhaust. Increase the key by 1 bit and the attackers work doubles. Secure key sizes today. Symmetric keys, 128 bits or more. R-Resay keys, 2048 bits or more because of modular exponentiation attacks. Comparable security, different cost. Brute force on a 4-bit key, 16 tries. On an 8-bit key, 256 tries. On a 128-bit key. More tries than atoms in the universe. Key size is the difference. Large key space means brute force is infeasible. That is why key size is the first defense.",
+    "scenes": [
+      {
+        "id": "hook",
+        "matchRate": 1
+      },
+      {
+        "id": "keyspace",
+        "matchRate": 1
+      },
+      {
+        "id": "cost",
+        "matchRate": 1
+      },
+      {
+        "id": "sizes",
+        "matchRate": 0.967
+      },
+      {
+        "id": "example",
+        "matchRate": 1
+      },
+      {
+        "id": "outro",
+        "matchRate": 1
+      }
+    ]
+  },
+  "issues": []
+}

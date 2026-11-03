@@ -1,0 +1,69 @@
+{
+  "file": "/home/rythamo/explainroo/videos/cns-mod1-mechanisms/out/video.mp4",
+  "duration": 116.2,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "codec": "h264"
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  "loudness": {
+    "integrated": -14.1,
+    "range": 3.4,
+    "truePeak": -1.3
+  },
+  "blackSegments": [],
+  "silences": [],
+  "speech": {
+    "matchRate": 1,
+    "transcript": "A service is what you get. A mechanism is how you get it. X.800 lists specific and pervasive mechanisms. Specific mechanisms protect a single communication or data item. Each one does one job and several can be combined. And cyphermint. Algorithms that transform data. Reversible is encryption. Irreversible is hashing. Digital signature. Data cryptographically signed. It gives authenticity and non-repudiation. Access control. Enforcement of authorities on resources. Only the right subjects get in. Data integrity cryptographic check sums over a data unit. Detects tampering. Three more specific mechanisms. Authentication Exchange. Information exchanged to assure identity. Traffic padding. Spurious data to thwart traffic analysis. Notarization. A trusted third party settles disputes. Pervasive mechanisms span the whole system. Security key management. Generation, distribution, protection. Trusted function. A process you can rely on. Mechanisms combined to implement services. Integrity plus authentication via a keyed hash. Confidentiality plus non-repudiation via encryption plus signature. Services say what? Mechanisms say how. The model ties them together.",
+    "scenes": [
+      {
+        "id": "hook",
+        "matchRate": 1
+      },
+      {
+        "id": "specific",
+        "matchRate": 1
+      },
+      {
+        "id": "encipher",
+        "matchRate": 1
+      },
+      {
+        "id": "signature",
+        "matchRate": 1
+      },
+      {
+        "id": "access",
+        "matchRate": 1
+      },
+      {
+        "id": "integrity",
+        "matchRate": 1
+      },
+      {
+        "id": "more",
+        "matchRate": 1
+      },
+      {
+        "id": "pervasive",
+        "matchRate": 1
+      },
+      {
+        "id": "combine",
+        "matchRate": 1
+      },
+      {
+        "id": "outro",
+        "matchRate": 1
+      }
+    ]
+  },
+  "issues": []
+}

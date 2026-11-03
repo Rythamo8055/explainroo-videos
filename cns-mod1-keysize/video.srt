@@ -1,0 +1,98 @@
+1
+00:00:00,556 --> 00:00:03,066
+A cipher is only as strong as its key.
+
+2
+00:00:03,591 --> 00:00:05,261
+If the key space is small,
+
+3
+00:00:05,671 --> 00:00:07,281
+an attacker tries them all.
+
+4
+00:00:08,889 --> 00:00:11,839
+Key space is the set of all possible keys.
+
+5
+00:00:12,459 --> 00:00:16,609
+For a 70-bit key,
+that is about 10 to the 21 keys.
+
+6
+00:00:17,244 --> 00:00:23,074
+Kahate's rule of thumb: 70 bits needed
+for a key space of 10 to the 21.
+
+7
+00:00:24,889 --> 00:00:26,579
+Each bit doubles the work.
+
+8
+00:00:27,094 --> 00:00:31,924
+A k-bit key costs about c times
+2 to the k minus 1 to exhaust.
+
+9
+00:00:32,589 --> 00:00:36,339
+Increase the key by one bit,
+and the attacker's work doubles.
+
+10
+00:00:38,056 --> 00:00:39,906
+Secure key sizes today.
+
+11
+00:00:40,441 --> 00:00:41,591
+Symmetric keys:
+
+12
+00:00:42,021 --> 00:00:43,891
+128 bits or more.
+
+13
+00:00:44,361 --> 00:00:45,591
+RSA keys:
+
+14
+00:00:46,181 --> 00:00:51,011
+2048 bits or more,
+because of modular exponentiation attacks.
+
+15
+00:00:51,621 --> 00:00:53,971
+Comparable security, different cost.
+
+16
+00:00:55,722 --> 00:00:57,512
+Brute force on a 4-bit key:
+
+17
+00:00:58,182 --> 00:00:58,852
+16 tries.
+
+18
+00:00:59,512 --> 00:01:02,802
+On an 8-bit key: 256 tries.
+
+19
+00:01:03,462 --> 00:01:05,752
+On a 128-bit key:
+
+20
+00:01:06,322 --> 00:01:08,472
+more tries than atoms in the universe.
+
+21
+00:01:09,127 --> 00:01:10,737
+Key size is the difference.
+
+22
+00:01:12,489 --> 00:01:16,199
+Large key space means
+brute force is infeasible.
+
+23
+00:01:16,614 --> 00:01:19,244
+That is why key size is the first defense.
+

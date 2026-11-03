@@ -1,0 +1,117 @@
+WEBVTT
+
+00:00:00.556 --> 00:00:03.726
+Every message you send
+crosses an open channel.
+
+00:00:04.226 --> 00:00:06.896
+An attacker can watch it, or change it.
+
+00:00:07.321 --> 00:00:09.771
+Stallings splits these into two families.
+
+00:00:11.589 --> 00:00:14.379
+Passive attacks do not modify the data.
+
+00:00:14.874 --> 00:00:16.124
+They only observe.
+
+00:00:16.739 --> 00:00:18.609
+The threat is to confidentiality.
+
+00:00:20.896 --> 00:00:23.486
+Eavesdropping, also called interception.
+
+00:00:24.206 --> 00:00:27.696
+The attacker gains unauthorized
+access to the data.
+
+00:00:28.146 --> 00:00:31.616
+Even encrypted content can
+be read if the key leaks.
+
+00:00:33.322 --> 00:00:35.352
+Traffic analysis is subtler.
+
+00:00:35.762 --> 00:00:39.972
+The attacker observes patterns,
+lengths and timing of messages.
+
+00:00:40.687 --> 00:00:43.917
+Even without reading content,
+much can be inferred.
+
+00:00:45.689 --> 00:00:48.519
+Active attacks modify the data stream.
+
+00:00:49.014 --> 00:00:50.424
+They threaten integrity,
+
+00:00:50.814 --> 00:00:52.464
+authenticity and availability.
+
+00:00:53.254 --> 00:00:55.184
+The attacker does more than watch.
+
+00:00:57.029 --> 00:00:59.999
+Masquerade, also called impersonation.
+
+00:01:00.459 --> 00:01:04.989
+The attacker poses as another
+entity to gain extra privileges.
+
+00:01:06.922 --> 00:01:09.532
+Replay, also called retransmission.
+
+00:01:10.112 --> 00:01:15.882
+Legitimate data is captured and sent
+again to create an unauthorized effect.
+
+00:01:17.589 --> 00:01:20.319
+Modification alters the data stream.
+
+00:01:20.819 --> 00:01:22.469
+Messages can be deleted,
+
+00:01:22.919 --> 00:01:26.149
+reordered, delayed or have
+their content changed.
+
+00:01:27.756 --> 00:01:30.746
+Denial of service prevents legitimate use.
+
+00:01:31.261 --> 00:01:33.891
+Flooding, jamming or crashing a resource
+
+00:01:34.361 --> 00:01:35.971
+so users cannot reach it.
+
+00:01:37.556 --> 00:01:39.466
+Attacks come through many surfaces.
+
+00:01:40.171 --> 00:01:43.401
+Application:
+malware and cross site scripting.
+
+00:01:43.851 --> 00:01:45.141
+Operating system.
+
+00:01:45.736 --> 00:01:48.446
+Network: sniffing and denial of service.
+
+00:01:48.991 --> 00:01:49.741
+Physical.
+
+00:01:50.346 --> 00:01:52.176
+Human: social engineering.
+
+00:01:53.989 --> 00:01:55.899
+Passive attacks steal secrets.
+
+00:01:56.534 --> 00:01:58.244
+Active attacks break trust.
+
+00:01:58.854 --> 00:02:02.644
+Knowing the surfaces is the
+first step to defending them.
+

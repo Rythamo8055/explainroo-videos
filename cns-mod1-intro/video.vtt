@@ -1,0 +1,121 @@
+WEBVTT
+
+00:00:00.556 --> 00:00:04.306
+Every message you send travels
+across an open network.
+
+00:00:04.926 --> 00:00:06.756
+The Internet was built for sharing,
+
+00:00:07.246 --> 00:00:08.156
+not for hiding.
+
+00:00:08.681 --> 00:00:11.231
+So security must be engineered in.
+
+00:00:12.889 --> 00:00:15.299
+Computer security protects assets.
+
+00:00:15.874 --> 00:00:19.044
+Hardware, software,
+data and documentation.
+
+00:00:19.744 --> 00:00:22.454
+It guards them from unauthorized access,
+
+00:00:22.824 --> 00:00:23.474
+misuse,
+
+00:00:24.504 --> 00:00:25.574
+disclosure, modification,
+
+00:00:26.044 --> 00:00:28.294
+destruction and denial of service.
+
+00:00:30.022 --> 00:00:32.072
+Three goals anchor everything.
+
+00:00:32.567 --> 00:00:37.297
+Confidentiality means only
+authorized parties read the data.
+
+00:00:37.752 --> 00:00:41.602
+Integrity means the data stays
+accurate and trustworthy.
+
+00:00:42.227 --> 00:00:45.197
+Availability means it is
+there when you need it.
+
+00:00:46.789 --> 00:00:48.519
+A fourth goal is authenticity.
+
+00:00:49.359 --> 00:00:52.829
+It assures you that a
+message or person is genuine.
+
+00:00:53.424 --> 00:00:54.734
+Not an impostor.
+
+00:00:56.489 --> 00:00:58.339
+Why do we need security now?
+
+00:00:58.819 --> 00:01:00.189
+Everything is connected.
+
+00:01:00.939 --> 00:01:02.189
+Attacks are sophisticated:
+
+00:01:03.059 --> 00:01:05.629
+malware, phishing, denial of service.
+
+00:01:06.189 --> 00:01:07.819
+Information has value:
+
+00:01:08.449 --> 00:01:10.779
+money, personal data, state secrets.
+
+00:01:11.424 --> 00:01:12.934
+And the law demands it.
+
+00:01:14.556 --> 00:01:16.026
+Threats come in three kinds.
+
+00:01:16.721 --> 00:01:19.771
+Human threats:
+hackers and careless insiders.
+
+00:01:20.481 --> 00:01:23.051
+Natural threats: floods and fires.
+
+00:01:23.701 --> 00:01:27.831
+Environmental threats:
+power failure or hardware failure.
+
+00:01:29.522 --> 00:01:32.992
+Picture a sender and a
+receiver on an open channel.
+
+00:01:33.517 --> 00:01:36.107
+An attacker can quietly read the message.
+
+00:01:36.647 --> 00:01:38.137
+Or change it on the way.
+
+00:01:38.677 --> 00:01:40.987
+Security services answer both.
+
+00:01:42.689 --> 00:01:45.759
+This is the vocabulary
+of the whole course.
+
+00:01:46.214 --> 00:01:50.744
+Confidentiality, integrity,
+availability, authenticity.
+
+00:01:51.169 --> 00:01:53.199
+Attacks, services, mechanisms.
+
+00:01:54.034 --> 00:01:55.924
+Everything else builds on these.
+

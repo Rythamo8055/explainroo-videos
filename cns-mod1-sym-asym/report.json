@@ -1,0 +1,53 @@
+{
+  "file": "/home/rythamo/explainroo/videos/cns-mod1-sym-asym/out/video.mp4",
+  "duration": 79.93,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "codec": "h264"
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  "loudness": {
+    "integrated": -14,
+    "range": 2.8,
+    "truePeak": -1.5
+  },
+  "blackSegments": [],
+  "silences": [],
+  "speech": {
+    "matchRate": 0.991,
+    "transcript": "Two ways to lock a message. Same key for both or a key pair. Each has a job. Symmetric cryptography. One secret key for encryption and decryption. Fast, so it is used for bulk data. But the key must be shared safely first. Asymmetric cryptography A public key and a private key Mathematically related Public encrypts Private decrypts for confidentiality Private signs Public verifies for authentication and non-repudiation Asymmetric is fast. Asymmetric is slower. So asymmetric distributes keys and signs. Symmetric encrypts the data. Symmetric examples. DES, a ES, blowfish, RC5, IDEA, RC4. Asymmetric examples. RSA, Elgamel, Napsack, Diffie, Helman. Diffie, Helman is key exchange only. One key or a key pair. Fast bulk data or safe key distribution. Modern systems use both.",
+    "scenes": [
+      {
+        "id": "hook",
+        "matchRate": 1
+      },
+      {
+        "id": "symmetric",
+        "matchRate": 1
+      },
+      {
+        "id": "asym",
+        "matchRate": 1
+      },
+      {
+        "id": "compare",
+        "matchRate": 1
+      },
+      {
+        "id": "examples",
+        "matchRate": 0.943
+      },
+      {
+        "id": "outro",
+        "matchRate": 1
+      }
+    ]
+  },
+  "issues": []
+}

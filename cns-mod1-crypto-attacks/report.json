@@ -1,0 +1,69 @@
+{
+  "file": "/home/rythamo/explainroo/videos/cns-mod1-crypto-attacks/out/video.mp4",
+  "duration": 111.67,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "codec": "h264"
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  "loudness": {
+    "integrated": -14,
+    "range": 3.8,
+    "truePeak": -1.4
+  },
+  "blackSegments": [],
+  "silences": [],
+  "speech": {
+    "matchRate": 0.99,
+    "transcript": "A cipher is only strong until someone attacks it. Cryptanalysis is the art of breaking ciphers. Cyphertext only attack. The attacker has only Cyphertext. Most common. Frequency analysis is the tool. The attacker has some plain text cipher text pairs. Known file headers give these away. Chosen plain text attack. The attacker picks plain texts and gets cipher texts. It breaks many classical ciphers. Chosen ciphertext attack. The attacker picks ciphertext and gets plain texts. Padding oracle attacks work this way. Brute force or exhaustive search. Try every key in the key space. A large key space makes this infeasible. Mathematical attacks. Factoring, discrete log. Structural attacks on RSA and Diffie-Hellman. Kirchhoff's principle. Security must depend only on the secrecy of the key, never on the secrecy of the algorithm. Shannon's properties Confusion Complex relation between key and ciphertext Diffusion. Each plain text digit influences many ciphertext digits. Substitution gives confusion. Permutation gives diffusion. Six attacks, two defenses. Large keys defeat brute force. Kirkoffs and Shannon define good cipher design.",
+    "scenes": [
+      {
+        "id": "hook",
+        "matchRate": 1
+      },
+      {
+        "id": "ciphertext",
+        "matchRate": 1
+      },
+      {
+        "id": "known",
+        "matchRate": 0.882
+      },
+      {
+        "id": "chosen",
+        "matchRate": 1
+      },
+      {
+        "id": "chosenct",
+        "matchRate": 1
+      },
+      {
+        "id": "brute",
+        "matchRate": 1
+      },
+      {
+        "id": "math",
+        "matchRate": 1
+      },
+      {
+        "id": "kerckhoffs",
+        "matchRate": 1
+      },
+      {
+        "id": "shannon",
+        "matchRate": 1
+      },
+      {
+        "id": "outro",
+        "matchRate": 1
+      }
+    ]
+  },
+  "issues": []
+}

@@ -1,0 +1,61 @@
+{
+  "file": "/home/rythamo/explainroo/videos/cns-mod1-services/out/video.mp4",
+  "duration": 105.27,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "codec": "h264"
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  "loudness": {
+    "integrated": -14,
+    "range": 3.5,
+    "truePeak": -1.3
+  },
+  "blackSegments": [],
+  "silences": [],
+  "speech": {
+    "matchRate": 1,
+    "transcript": "Security is not one thing. It is a set of services a system provides. X.800 lists six of them. Authentication Assurance that the communicating entity is the one it claims to be. Peer authentication for a connection. Data origin authentication for a message. Access control. Protection against unauthorized use of resources. It's only the right people get in. Data confidentiality. Protection of transmitted data from passive attack. Whole connection, single field, or the fact that traffic exists at all. Data integrity. Assurance that the data received is exactly the data sent. Nothing added, nothing changed on the way. Non-repudiation. Guards against denial. The sender cannot deny sending. The receiver cannot deny receipt. Availability Service A resource is accessible and usable by authorized users when needed. Quality of service matters here. Six services each answers one attack. Confidentiality against eavesdropping. Integrity against modification. Availability against denial of service. Authentication and access control against masquerade. Non-repudiation against repudiation.",
+    "scenes": [
+      {
+        "id": "hook",
+        "matchRate": 1
+      },
+      {
+        "id": "auth",
+        "matchRate": 1
+      },
+      {
+        "id": "access",
+        "matchRate": 1
+      },
+      {
+        "id": "conf",
+        "matchRate": 1
+      },
+      {
+        "id": "integrity",
+        "matchRate": 1
+      },
+      {
+        "id": "nonrep",
+        "matchRate": 1
+      },
+      {
+        "id": "avail",
+        "matchRate": 1
+      },
+      {
+        "id": "outro",
+        "matchRate": 1
+      }
+    ]
+  },
+  "issues": []
+}

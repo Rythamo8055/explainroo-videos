@@ -1,0 +1,244 @@
+1
+00:00:00,556 --> 00:00:04,686
+Python is a language for giving
+instructions to a computer.
+
+2
+00:00:05,201 --> 00:00:06,971
+It reads almost like English.
+
+3
+00:00:07,576 --> 00:00:10,826
+You write a few lines,
+and the computer follows them.
+
+4
+00:00:12,422 --> 00:00:14,352
+A program is a list of steps.
+
+5
+00:00:14,937 --> 00:00:17,707
+The computer runs them from top to bottom.
+
+6
+00:00:18,117 --> 00:00:19,567
+One step at a time.
+
+7
+00:00:20,067 --> 00:00:21,717
+That is the whole idea.
+
+8
+00:00:23,389 --> 00:00:24,799
+The first step is print.
+
+9
+00:00:25,404 --> 00:00:27,234
+Print shows text on the screen.
+
+10
+00:00:27,799 --> 00:00:30,369
+Write print, then the text inside quotes.
+
+11
+00:00:32,156 --> 00:00:34,106
+A variable is a named box.
+
+12
+00:00:34,791 --> 00:00:37,621
+You put a value inside
+with an equals sign.
+
+13
+00:00:38,136 --> 00:00:40,586
+Here, the box called name holds Maya.
+
+14
+00:00:42,322 --> 00:00:45,172
+Once a value is in a box, you can use it.
+
+15
+00:00:45,592 --> 00:00:47,782
+Print name, and Python shows Maya.
+
+16
+00:00:48,372 --> 00:00:50,442
+The box keeps the value for later.
+
+17
+00:00:52,122 --> 00:00:53,792
+Every value has a type.
+
+18
+00:00:54,337 --> 00:00:56,807
+A whole number like fifteen is an int.
+
+19
+00:00:57,342 --> 00:00:59,532
+You can add and subtract ints.
+
+20
+00:01:01,022 --> 00:01:02,292
+Text is a string.
+
+21
+00:01:02,857 --> 00:01:04,567
+Text goes inside quotes.
+
+22
+00:01:05,177 --> 00:01:06,867
+A word in quotes is a string.
+
+23
+00:01:08,622 --> 00:01:10,512
+A boolean is true or false.
+
+24
+00:01:11,082 --> 00:01:13,392
+It answers a yes or no question.
+
+25
+00:01:13,937 --> 00:01:16,167
+Python uses it to make decisions.
+
+26
+00:01:18,056 --> 00:01:20,466
+A list holds many values in order.
+
+27
+00:01:20,986 --> 00:01:22,196
+The list holds mango,
+
+28
+00:01:22,846 --> 00:01:23,596
+apple and banana.
+
+29
+00:01:24,261 --> 00:01:25,791
+The first item is mango,
+
+30
+00:01:26,201 --> 00:01:28,031
+because counting starts at zero.
+
+31
+00:01:29,722 --> 00:01:30,692
+Let us pause.
+
+32
+00:01:31,397 --> 00:01:34,647
+You now know print, variables,
+three types and lists.
+
+33
+00:01:35,297 --> 00:01:36,207
+Take a breath.
+
+34
+00:01:36,822 --> 00:01:38,192
+That is a good start.
+
+35
+00:01:41,056 --> 00:01:42,806
+Conditions choose a path.
+
+36
+00:01:43,356 --> 00:01:45,866
+If marks are forty or more, print pass.
+
+37
+00:01:46,466 --> 00:01:48,696
+If not, Python skips that line.
+
+38
+00:01:50,422 --> 00:01:51,932
+Else is the other path.
+
+39
+00:01:52,552 --> 00:01:55,062
+If the marks are low, print try again.
+
+40
+00:01:55,572 --> 00:01:57,162
+Only one branch runs.
+
+41
+00:01:58,922 --> 00:02:00,472
+A loop repeats work.
+
+42
+00:02:01,012 --> 00:02:03,982
+For each number in range three,
+print the number.
+
+43
+00:02:04,492 --> 00:02:06,622
+The output is zero, one, two.
+
+44
+00:02:07,127 --> 00:02:09,177
+No need to write print three times.
+
+45
+00:02:10,889 --> 00:02:13,339
+Python uses spaces to group code.
+
+46
+00:02:13,889 --> 00:02:17,959
+The indented line belongs to
+the if or the for above it.
+
+47
+00:02:18,319 --> 00:02:20,429
+The spaces are part of the syntax.
+
+48
+00:02:22,356 --> 00:02:24,806
+A function is a reusable block.
+
+49
+00:02:25,341 --> 00:02:27,871
+Define it once, then call it by name.
+
+50
+00:02:28,406 --> 00:02:30,601
+Call greet, and it prints Hi.
+
+51
+00:02:30,851 --> 00:02:33,201
+Use it again whenever you need it.
+
+52
+00:02:34,822 --> 00:02:35,812
+Another pause.
+
+53
+00:02:36,457 --> 00:02:37,687
+You now know conditions,
+
+54
+00:02:38,177 --> 00:02:40,567
+loops, indentation and functions.
+
+55
+00:02:41,252 --> 00:02:43,322
+These four make programs useful.
+
+56
+00:02:46,089 --> 00:02:47,579
+That is the core of Python.
+
+57
+00:02:49,214 --> 00:02:51,124
+Print, variables, types,
+lists, conditions,
+
+58
+00:02:51,494 --> 00:02:53,484
+loops, indentation and functions.
+
+59
+00:02:54,144 --> 00:02:58,154
+Take one idea at a time,
+and practice a little every day.
+

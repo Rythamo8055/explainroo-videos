@@ -1,0 +1,138 @@
+1
+00:00:00,556 --> 00:00:04,026
+A cipher is only strong
+until someone attacks it.
+
+2
+00:00:04,436 --> 00:00:07,826
+Cryptanalysis is the
+art of breaking ciphers.
+
+3
+00:00:09,456 --> 00:00:11,106
+Ciphertext-only attack.
+
+4
+00:00:11,716 --> 00:00:14,066
+The attacker has only ciphertext.
+
+5
+00:00:14,576 --> 00:00:15,586
+Most common.
+
+6
+00:00:16,191 --> 00:00:18,641
+Frequency analysis is the tool.
+
+7
+00:00:20,322 --> 00:00:22,012
+Known-plaintext attack.
+
+8
+00:00:22,572 --> 00:00:25,562
+The attacker has some
+plaintext-ciphertext pairs.
+
+9
+00:00:26,162 --> 00:00:28,432
+Known file headers give these away.
+
+10
+00:00:30,089 --> 00:00:31,919
+Chosen-plaintext attack.
+
+11
+00:00:32,479 --> 00:00:35,889
+The attacker picks plaintexts
+and gets ciphertexts.
+
+12
+00:00:36,484 --> 00:00:38,674
+It breaks many classical ciphers.
+
+13
+00:00:40,322 --> 00:00:42,172
+Chosen-ciphertext attack.
+
+14
+00:00:42,752 --> 00:00:46,022
+The attacker picks ciphertexts
+and gets plaintexts.
+
+15
+00:00:46,647 --> 00:00:48,957
+Padding-oracle attacks work this way.
+
+16
+00:00:50,589 --> 00:00:52,819
+Brute-force, or exhaustive search.
+
+17
+00:00:53,404 --> 00:00:55,334
+Try every key in the key space.
+
+18
+00:00:55,879 --> 00:00:58,709
+A large key space makes this infeasible.
+
+19
+00:01:00,289 --> 00:01:01,899
+Mathematical attacks.
+
+20
+00:01:02,444 --> 00:01:07,974
+Factoring, discrete log, structural
+attacks on RSA and Diffie-Hellman.
+
+21
+00:01:09,556 --> 00:01:11,006
+Kerckhoffs's principle.
+
+22
+00:01:11,516 --> 00:01:15,206
+Security must depend only
+on the secrecy of the key,
+
+23
+00:01:15,656 --> 00:01:18,066
+never on the secrecy of the algorithm.
+
+24
+00:01:19,856 --> 00:01:20,966
+Shannon's properties.
+
+25
+00:01:21,721 --> 00:01:26,031
+Confusion: complex relation
+between key and ciphertext.
+
+26
+00:01:26,601 --> 00:01:27,451
+Diffusion:
+
+27
+00:01:27,941 --> 00:01:31,771
+each plaintext digit influences
+many ciphertext digits.
+
+28
+00:01:32,371 --> 00:01:34,681
+Substitution gives confusion.
+
+29
+00:01:35,171 --> 00:01:37,381
+Permutation gives diffusion.
+
+30
+00:01:39,089 --> 00:01:40,959
+Six attacks, two defenses.
+
+31
+00:01:41,739 --> 00:01:43,909
+Large keys defeat brute force.
+
+32
+00:01:44,509 --> 00:01:47,859
+Kerckhoffs and Shannon
+define good cipher design.
+

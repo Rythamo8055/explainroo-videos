@@ -1,0 +1,100 @@
+1
+00:00:00,556 --> 00:00:03,906
+Substitution replaces
+each letter with another.
+
+2
+00:00:04,361 --> 00:00:05,711
+The alphabet is scrambled,
+
+3
+00:00:06,201 --> 00:00:08,051
+but the length stays the same.
+
+4
+00:00:10,529 --> 00:00:14,699
+A substitution cipher maps plaintext
+letters to ciphertext letters.
+
+5
+00:00:15,254 --> 00:00:16,944
+The key is the mapping itself.
+
+6
+00:00:17,619 --> 00:00:18,969
+With 26 letters
+
+7
+00:00:19,419 --> 00:00:22,189
+there are 26 factorial possible mappings.
+
+8
+00:00:23,922 --> 00:00:24,952
+Caesar cipher:
+
+9
+00:00:25,382 --> 00:00:27,352
+shift every letter by a fixed key.
+
+10
+00:00:27,857 --> 00:00:30,607
+Key 3: meet becomes phhw.
+
+11
+00:00:31,217 --> 00:00:34,167
+A becomes D, B becomes E, and so on.
+
+12
+00:00:35,822 --> 00:00:39,772
+Monoalphabetic:
+an arbitrary one to one substitution.
+
+13
+00:00:40,567 --> 00:00:44,077
+The key is a permutation
+of all 26 letters.
+
+14
+00:00:44,647 --> 00:00:47,297
+About 10 to the 26 possible keys.
+
+15
+00:00:49,089 --> 00:00:51,419
+Playfair: encrypts pairs of letters.
+
+16
+00:00:52,049 --> 00:00:54,619
+Build a 5 by 5 grid from a keyword.
+
+17
+00:00:55,239 --> 00:00:59,349
+Replace each pair using row,
+column or rectangle rules.
+
+18
+00:01:01,122 --> 00:01:01,992
+Hill cipher:
+
+19
+00:01:02,422 --> 00:01:07,612
+treat letters as numbers and
+multiply by a key matrix modulo 26.
+
+20
+00:01:08,297 --> 00:01:10,587
+It encrypts blocks of letters at once.
+
+21
+00:01:12,322 --> 00:01:14,512
+Substitution creates confusion.
+
+22
+00:01:15,187 --> 00:01:19,157
+The relation between key and
+ciphertext becomes complex.
+
+23
+00:01:19,822 --> 00:01:23,772
+Shannon's property of confusion
+is achieved by substitution.
+

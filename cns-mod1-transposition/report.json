@@ -1,0 +1,53 @@
+{
+  "file": "/home/rythamo/explainroo/videos/cns-mod1-transposition/out/video.mp4",
+  "duration": 76,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "codec": "h264"
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  "loudness": {
+    "integrated": -14,
+    "range": 3.7,
+    "truePeak": -1.4
+  },
+  "blackSegments": [],
+  "silences": [],
+  "speech": {
+    "matchRate": 0.972,
+    "transcript": "Substitution changes letters. Transposition moves them. The alphabet stays the same. Only the order changes. Transposition rearranges the order of characters. The character set stays identical, so the frequency profile is preserved. Railfence cipher. Write plain text in a zigzag across rails. Then read row by row. Plain text meet Mief der Thurgat party with three rails becomes MMTH Grett Fideo Ettartbi. Column-Narr Transposition Right rows of fixed length under a keyword, then read columns in the keyword's letter order. The keyword determines the permutation. Double Transposition Apply column nar transposition twice with two keys much stronger than a single pass. Transposition creates diffusion. Each plain-text digit influences many ciphertext digits. Shannon's property of diffusion is achieved by permutation.",
+    "scenes": [
+      {
+        "id": "hook",
+        "matchRate": 1
+      },
+      {
+        "id": "what",
+        "matchRate": 1
+      },
+      {
+        "id": "rail",
+        "matchRate": 0.905
+      },
+      {
+        "id": "columnar",
+        "matchRate": 0.957
+      },
+      {
+        "id": "double",
+        "matchRate": 1
+      },
+      {
+        "id": "outro",
+        "matchRate": 1
+      }
+    ]
+  },
+  "issues": []
+}

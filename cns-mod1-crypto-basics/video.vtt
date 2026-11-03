@@ -1,0 +1,80 @@
+WEBVTT
+
+00:00:00.556 --> 00:00:03.386
+Cryptography is the art of hiding meaning.
+
+00:00:04.006 --> 00:00:08.576
+It turns a readable message into
+something unreadable, and back again.
+
+00:00:10.256 --> 00:00:14.546
+Plaintext is the original
+intelligible message or data.
+
+00:00:15.076 --> 00:00:17.006
+It is what you want to protect.
+
+00:00:18.829 --> 00:00:22.879
+Ciphertext is the transformed,
+unintelligible form.
+
+00:00:23.379 --> 00:00:26.289
+An attacker who sees it
+learns nothing useful.
+
+00:00:28.022 --> 00:00:31.232
+Encryption turns
+plaintext into ciphertext.
+
+00:00:31.677 --> 00:00:35.067
+Decryption turns ciphertext
+back into plaintext.
+
+00:00:35.592 --> 00:00:37.422
+The same process in reverse.
+
+00:00:39.322 --> 00:00:42.632
+A cipher is the algorithm
+for the transformation.
+
+00:00:43.247 --> 00:00:47.337
+A cryptosystem adds key
+management and key distribution.
+
+00:00:47.932 --> 00:00:50.382
+The algorithm alone is not enough.
+
+00:00:52.089 --> 00:00:54.419
+A key controls the transformation.
+
+00:00:55.004 --> 00:00:57.074
+It is the input to the algorithm.
+
+00:00:57.739 --> 00:01:00.689
+Key space is the set of all possible keys.
+
+00:01:01.309 --> 00:01:04.279
+A larger key space means a stronger lock.
+
+00:01:05.956 --> 00:01:07.126
+A simple example:
+
+00:01:07.536 --> 00:01:10.606
+replace each letter with
+the one three places later.
+
+00:01:11.161 --> 00:01:13.111
+Meet becomes phhw.
+
+00:01:13.726 --> 00:01:16.876
+That is a substitution
+cipher with key three.
+
+00:01:18.556 --> 00:01:22.166
+Plaintext, ciphertext,
+cipher, key, key space.
+
+00:01:22.781 --> 00:01:27.331
+These five words are the foundation
+of every algorithm that follows.
+

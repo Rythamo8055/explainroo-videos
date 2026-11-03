@@ -1,0 +1,73 @@
+{
+  "file": "/home/rythamo/explainroo/videos/cns-mod1-attacks/out/video.mp4",
+  "duration": 126.23,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "codec": "h264"
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  "loudness": {
+    "integrated": -14,
+    "range": 3.5,
+    "truePeak": -1.3
+  },
+  "blackSegments": [],
+  "silences": [],
+  "speech": {
+    "matchRate": 1,
+    "transcript": "Every message you send crosses an open channel. An attacker can watch it or change it. Stalling splits these into two families. Passive attacks do not modify the data. They only observe. The threat is to confidentiality. EAVS Dropping, also called \"interception\", the attacker gains unauthorized access to the data. Even encrypted content can be read if the key leaks. Traffic analysis is subtler. The attacker observes patterns, lengths, and timing of messages. Even without reading content, much can be inferred. Active attacks modify the data stream. They threaten integrity, authenticity, and availability. The attacker does more than watch. Masquerade, also called impersonation. The attacker poses as another entity to gain extra privileges. Replay, also called retransmission. Legitimate data is captured and sent again to create an unauthorized effect. Modification alters the data stream. Messages can be deleted, reordered, delayed, or have their content changed. Denial of service prevents legitimate use. Flooding, jamming, or crashing a resource, so users cannot reach it. Attacks come through many surfaces. Application Malware and Cross-Site Scripting Operating System Network Sniffing and Denial of Service Physical Human Social Engineering Passive attacks steal secrets. Active attacks break trust. Knowing the surfaces is the first step to defending them.",
+    "scenes": [
+      {
+        "id": "hook",
+        "matchRate": 1
+      },
+      {
+        "id": "passive",
+        "matchRate": 1
+      },
+      {
+        "id": "eavesdrop",
+        "matchRate": 1
+      },
+      {
+        "id": "traffic",
+        "matchRate": 1
+      },
+      {
+        "id": "active",
+        "matchRate": 1
+      },
+      {
+        "id": "masquerade",
+        "matchRate": 1
+      },
+      {
+        "id": "replay",
+        "matchRate": 1
+      },
+      {
+        "id": "modification",
+        "matchRate": 1
+      },
+      {
+        "id": "dos",
+        "matchRate": 1
+      },
+      {
+        "id": "surfaces",
+        "matchRate": 1
+      },
+      {
+        "id": "outro",
+        "matchRate": 1
+      }
+    ]
+  },
+  "issues": []
+}

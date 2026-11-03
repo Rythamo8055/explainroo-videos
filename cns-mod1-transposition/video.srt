@@ -1,0 +1,92 @@
+1
+00:00:00,556 --> 00:00:02,606
+Substitution changes letters.
+
+2
+00:00:03,266 --> 00:00:05,096
+Transposition moves them.
+
+3
+00:00:05,546 --> 00:00:09,116
+The alphabet stays the same,
+only the order changes.
+
+4
+00:00:10,956 --> 00:00:14,386
+Transposition rearranges
+the order of characters.
+
+5
+00:00:15,146 --> 00:00:17,096
+The character set stays identical,
+
+6
+00:00:17,566 --> 00:00:20,016
+so the frequency profile is preserved.
+
+7
+00:00:21,889 --> 00:00:23,119
+Rail-fence cipher.
+
+8
+00:00:23,804 --> 00:00:26,494
+Write plaintext in a zigzag across rails,
+
+9
+00:00:26,924 --> 00:00:28,594
+then read row by row.
+
+10
+00:00:29,099 --> 00:00:33,699
+Plaintext meetmeafterthetogaparty
+with 3 rails becomes
+
+11
+00:00:33,699 --> 00:00:36,099
+mmthgretfeteoaateartpy.
+
+12
+00:00:37,522 --> 00:00:39,072
+Columnar transposition.
+
+13
+00:00:39,717 --> 00:00:42,187
+Write rows of fixed
+length under a keyword,
+
+14
+00:00:42,737 --> 00:00:45,687
+then read columns in the
+keyword's letter order.
+
+15
+00:00:46,162 --> 00:00:48,652
+The keyword determines the permutation.
+
+16
+00:00:50,422 --> 00:00:51,752
+Double transposition.
+
+17
+00:00:52,387 --> 00:00:55,837
+Apply columnar transposition
+twice with two keys.
+
+18
+00:00:56,447 --> 00:00:58,477
+Much stronger than a single pass.
+
+19
+00:01:00,256 --> 00:01:02,406
+Transposition creates diffusion.
+
+20
+00:01:03,091 --> 00:01:07,521
+Each plaintext digit influences
+many ciphertext digits.
+
+21
+00:01:08,146 --> 00:01:12,216
+Shannon's property of diffusion
+is achieved by permutation.
+

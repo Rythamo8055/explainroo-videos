@@ -1,0 +1,126 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:02.840
+Your phone keyboard guesses the next word.
+
+00:00:03.120 --> 00:00:05.330
+Look at the three suggestions above it.
+
+00:00:05.515 --> 00:00:07.845
+An LLM does the same thing,
+
+00:00:08.095 --> 00:00:10.765
+but with almost all the text
+humans have ever written.
+
+00:00:11.750 --> 00:00:14.700
+LLM stands for Large Language Model.
+
+00:00:14.990 --> 00:00:18.420
+Large means billions of numbers inside it,
+called parameters.
+
+00:00:19.020 --> 00:00:20.930
+Language means it works with words.
+
+00:00:21.295 --> 00:00:25.845
+A model is just a pattern learner,
+not a database and not a thinking brain.
+
+00:00:26.983 --> 00:00:29.413
+Say you type, the capital of India is.
+
+00:00:29.713 --> 00:00:31.383
+The model answers New Delhi.
+
+00:00:31.698 --> 00:00:33.188
+It does not open a page.
+
+00:00:33.548 --> 00:00:35.478
+It produces the answer from patterns
+
+00:00:35.948 --> 00:00:37.578
+it has seen millions of times.
+
+00:00:37.908 --> 00:00:41.198
+Ask about something rare,
+and it still writes a smooth sentence.
+
+00:00:42.383 --> 00:00:44.133
+Training is simple to describe.
+
+00:00:44.583 --> 00:00:46.373
+It reads a huge pile of text.
+
+00:00:46.733 --> 00:00:48.423
+For every next word, it guesses,
+
+00:00:48.973 --> 00:00:51.163
+checks the answer, and nudges its numbers.
+
+00:00:51.553 --> 00:00:53.343
+A wrong guess is not a failure.
+
+00:00:53.708 --> 00:00:55.878
+It is the signal that moves the numbers.
+
+00:00:56.238 --> 00:00:58.008
+Repeat that billions of times.
+
+00:00:59.117 --> 00:01:00.227
+The trick is attention.
+
+00:01:00.767 --> 00:01:01.937
+When it reads a sentence,
+
+00:01:02.307 --> 00:01:04.617
+it weighs which words
+matter for the next one.
+
+00:01:04.847 --> 00:01:09.717
+Like guessing the next line of a song from
+the whole stanza, not just the last word.
+
+00:01:10.027 --> 00:01:13.997
+That is why a word's meaning can
+change with the sentence around it.
+
+00:01:14.917 --> 00:01:17.467
+At small scale, it is just autocomplete.
+
+00:01:17.757 --> 00:01:21.607
+At large scale, next word prediction
+starts to look like reasoning.
+
+00:01:21.982 --> 00:01:26.852
+The same machine can summarize a chapter,
+translate a message, or write code.
+
+00:01:27.162 --> 00:01:30.752
+It can also follow instructions
+and answer in your language.
+
+00:01:31.850 --> 00:01:33.000
+But it is still guessing.
+
+00:01:33.435 --> 00:01:36.965
+It can be confidently wrong,
+because it predicts plausible text,
+
+00:01:37.075 --> 00:01:38.185
+not checked facts.
+
+00:01:38.600 --> 00:01:40.970
+Ask for a source, and it may invent one.
+
+00:01:41.220 --> 00:01:45.290
+So verify anything important
+with a book or a trusted website.
+
+00:01:46.317 --> 00:01:49.927
+An LLM is a very well
+trained next word predictor.
+
+00:01:50.277 --> 00:01:51.927
+Useful, but not magic.
+

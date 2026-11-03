@@ -1,0 +1,61 @@
+{
+  "file": "/home/rythamo/explainroo/videos/cns-mod1-intro/out/video.mp4",
+  "duration": 119.7,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "codec": "h264"
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  "loudness": {
+    "integrated": -14,
+    "range": 3.4,
+    "truePeak": -1.3
+  },
+  "blackSegments": [],
+  "silences": [],
+  "speech": {
+    "matchRate": 1,
+    "transcript": "Every message you send travels across an open network. The Internet was built for sharing, not for hiding. So security must be engineered in. Computer security protects assets, hardware, software, data and documentation. It guards them from unauthorized access, misuse, disclosure, modification, destruction and denial of service. Three goals anchor everything. Confidentiality means only authorized parties read the data. Integrity means the data stays accurate and trustworthy. Availability means it is there when you need it. A fourth goal is authenticity. It assures you that a message or person is genuine, not an imposter. Why do we need security now? Everything is connected. Attacks are sophisticated. Malware, phishing, denial of service. Information has value. Money, personal data, state secrets. And the law demands it. Threats come in three kinds. Human threats, hackers and careless insiders. Natural threats, floods and fires. Environmental threats, power failure or hardware failure. Picture a sender and a receiver on an open channel, an attacker can quietly read the message, or change it on the way. Security services answer both. This is the vocabulary of the whole course. Confidentiality, integrity, availability, authenticity, attacks, services, mechanisms. Everything else builds on these.",
+    "scenes": [
+      {
+        "id": "hook",
+        "matchRate": 1
+      },
+      {
+        "id": "what",
+        "matchRate": 1
+      },
+      {
+        "id": "goals",
+        "matchRate": 1
+      },
+      {
+        "id": "auth",
+        "matchRate": 1
+      },
+      {
+        "id": "need",
+        "matchRate": 1
+      },
+      {
+        "id": "threats",
+        "matchRate": 1
+      },
+      {
+        "id": "example",
+        "matchRate": 1
+      },
+      {
+        "id": "outro",
+        "matchRate": 1
+      }
+    ]
+  },
+  "issues": []
+}

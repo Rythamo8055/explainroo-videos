@@ -1,0 +1,100 @@
+1
+00:00:00,350 --> 00:00:04,870
+This is an essay from Goodfire about
+what is really happening inside a neural
+
+2
+00:00:04,870 --> 00:00:05,580
+network.
+
+3
+00:00:05,990 --> 00:00:07,220
+Its claim is simple.
+
+4
+00:00:07,605 --> 00:00:09,175
+The networks are already clean.
+
+5
+00:00:10,283 --> 00:00:13,073
+For years, researchers
+thought neurons were tangled.
+
+6
+00:00:13,493 --> 00:00:17,843
+One famous neuron seemed to fire for
+cat faces and the fronts of cars.
+
+7
+00:00:18,233 --> 00:00:20,683
+The leading explanation was superposition,
+
+8
+00:00:21,133 --> 00:00:24,743
+the idea that networks fold
+unrelated concepts together.
+
+9
+00:00:25,750 --> 00:00:27,900
+Nick Cammarata went back to the evidence.
+
+10
+00:00:28,295 --> 00:00:31,825
+Superposition was the wrong
+explanation for InceptionV1.
+
+11
+00:00:32,750 --> 00:00:36,900
+Ordinary fixes to the architecture
+made the late layers legible,
+
+12
+00:00:37,190 --> 00:00:40,500
+with no change to model
+size or training data.
+
+13
+00:00:41,517 --> 00:00:42,767
+The result is striking.
+
+14
+00:00:43,252 --> 00:00:44,722
+In the last layer of InceptionV1,
+
+15
+00:00:45,952 --> 00:00:50,382
+99 to 100 percent of neurons
+are easy to interpret.
+
+16
+00:00:50,732 --> 00:00:53,982
+In early audits of a
+32-billion-parameter model,
+
+17
+00:00:54,412 --> 00:00:57,822
+about 90 percent of
+neurons have one main job.
+
+18
+00:00:58,883 --> 00:01:01,233
+The essay is 65 minutes long,
+
+19
+00:01:01,643 --> 00:01:03,473
+and it links an interactive microscope.
+
+20
+00:01:03,968 --> 00:01:08,118
+There you can browse the network
+neuron by neuron and judge it yourself.
+
+21
+00:01:09,283 --> 00:01:10,813
+The message is optimistic.
+
+22
+00:01:11,448 --> 00:01:15,198
+We can study networks directly,
+instead of untangling them first.
+

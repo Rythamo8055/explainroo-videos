@@ -1,0 +1,57 @@
+{
+  "file": "/home/rythamo/explainroo/videos/rust-101/out/video.mp4",
+  "duration": 67.47,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "codec": "h264"
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  "loudness": {
+    "integrated": -14,
+    "range": 2.1,
+    "truePeak": -1.4
+  },
+  "blackSegments": [],
+  "silences": [],
+  "speech": {
+    "matchRate": 0.981,
+    "transcript": "Rust is a systems language that promises two things at once. The speed of sea and no crashes from memory bugs. Most languages make you pick one. Garbage collected languages are safe, but they pause. Manual memory languages are fast, but dangerous. Rust takes a third road. The core idea is ownership. Every value has exactly one owner. When that owner goes off scope, the value is freed automatically. You can lend a value out with a reference. Any number of readers can borrow it, or one writer can borrow it mutably. Never both at the same time. Rust does not have null and does not have exceptions. Option means a value might be missing. Result means an operation might fail. The compiler makes you handle both. Cargo is the build tool and package manager. It compiles, tests, formats and publishes, all with one command. Fast, safe, and predictable. All of it without a garbage collector.",
+    "scenes": [
+      {
+        "id": "hook",
+        "matchRate": 0.952
+      },
+      {
+        "id": "tradeoff",
+        "matchRate": 1
+      },
+      {
+        "id": "ownership",
+        "matchRate": 0.913
+      },
+      {
+        "id": "borrow",
+        "matchRate": 1
+      },
+      {
+        "id": "errors",
+        "matchRate": 1
+      },
+      {
+        "id": "cargo",
+        "matchRate": 1
+      },
+      {
+        "id": "outro",
+        "matchRate": 1
+      }
+    ]
+  },
+  "issues": []
+}

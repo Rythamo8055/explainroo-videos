@@ -1,0 +1,97 @@
+{
+  "file": "/home/rythamo/explainroo/videos/python-101/out/video.mp4",
+  "duration": 182.37,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "codec": "h264"
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  "loudness": {
+    "integrated": -14,
+    "range": 3.6,
+    "truePeak": -1
+  },
+  "blackSegments": [],
+  "silences": [],
+  "speech": {
+    "matchRate": 0.997,
+    "transcript": "Python is a language for giving instructions to a computer. It reads almost like English. You write a few lines, and the computer follows them. A program is a list of steps. The computer runs them from top to bottom. One step at a time. That is the whole idea. The first step is print. Print shows text on the screen. Write print then the text inside quotes. A variable is a named box. You put a value inside with an equal sign. Here, the box called name holds Maya. Once a value is in a box, you can use it. Print name and Python shows Maya. The box keeps the value for later. Every value has a type. A whole number like 15 is an int. You can add and subtract ints. Text is a string. Text goes inside quotes. A word in quotes is a string. A boolean is true or false. It answers a yes or no question. Python uses it to make decisions. A list holds many values in order. The list holds Mango, Apple and Banana. The first item is Mango because counting starts at zero. Let us pause. You now know print, variables, three types, and lists. Take a breath. That is a good start. Conditions choose a path. If marks are 40 or more, print pass. If not, Python skips that line. Else is the other path. If the marks are low, print \"try again.\" Only one branch runs. A loop repeats work. For each number in range 3, print the number. The output is 0, 1, 2. No need to write print 3 times. Python uses spaces to group code. The indented line belongs to the if or the for above it. The spaces are part of the syntax. A function is a reusable block. Define it once, then call it by name. Call greet and it prints high. Use it again whenever you need it. Another pause. You now know conditions, loops, indentation and functions. These four make programs useful. That is the core of Python. Print variables, types lists, conditions, loops, indentation, and functions. Take one idea at a time and practice a little every day.",
+    "scenes": [
+      {
+        "id": "hook",
+        "matchRate": 1
+      },
+      {
+        "id": "program",
+        "matchRate": 1
+      },
+      {
+        "id": "print",
+        "matchRate": 1
+      },
+      {
+        "id": "variables",
+        "matchRate": 1
+      },
+      {
+        "id": "use",
+        "matchRate": 1
+      },
+      {
+        "id": "type_int",
+        "matchRate": 1
+      },
+      {
+        "id": "type_str",
+        "matchRate": 1
+      },
+      {
+        "id": "type_bool",
+        "matchRate": 1
+      },
+      {
+        "id": "lists",
+        "matchRate": 1
+      },
+      {
+        "id": "recap1",
+        "matchRate": 1
+      },
+      {
+        "id": "conditions",
+        "matchRate": 1
+      },
+      {
+        "id": "else",
+        "matchRate": 1
+      },
+      {
+        "id": "loops",
+        "matchRate": 1
+      },
+      {
+        "id": "indent",
+        "matchRate": 1
+      },
+      {
+        "id": "functions",
+        "matchRate": 0.963
+      },
+      {
+        "id": "recap2",
+        "matchRate": 1
+      },
+      {
+        "id": "outro",
+        "matchRate": 1
+      }
+    ]
+  },
+  "issues": []
+}

@@ -1,0 +1,92 @@
+1
+00:00:00,350 --> 00:00:03,920
+Rust is a systems language that
+promises two things at once:
+
+2
+00:00:04,470 --> 00:00:07,600
+the speed of C,
+and no crashes from memory bugs.
+
+3
+00:00:08,717 --> 00:00:10,827
+Most languages make you pick one.
+
+4
+00:00:11,052 --> 00:00:14,262
+Garbage-collected languages are safe,
+but they pause.
+
+5
+00:00:14,692 --> 00:00:17,842
+Manual memory languages are fast,
+but dangerous.
+
+6
+00:00:18,272 --> 00:00:19,862
+Rust takes a third road.
+
+7
+00:00:20,883 --> 00:00:22,553
+The core idea is ownership.
+
+8
+00:00:22,958 --> 00:00:25,268
+Every value has exactly one owner.
+
+9
+00:00:25,593 --> 00:00:28,983
+When that owner goes out of scope,
+the value is freed automatically.
+
+10
+00:00:30,317 --> 00:00:32,247
+You can lend a value out with a reference.
+
+11
+00:00:32,692 --> 00:00:34,842
+Any number of readers can borrow it.
+
+12
+00:00:35,007 --> 00:00:37,397
+Or one writer can borrow it mutably.
+
+13
+00:00:37,722 --> 00:00:39,592
+Never both at the same time.
+
+14
+00:00:40,417 --> 00:00:43,507
+Rust does not have null,
+and does not have exceptions.
+
+15
+00:00:43,967 --> 00:00:45,977
+Option means a value might be missing.
+
+16
+00:00:46,292 --> 00:00:48,722
+Result means an operation might fail.
+
+17
+00:00:49,002 --> 00:00:50,952
+The compiler makes you handle both.
+
+18
+00:00:52,017 --> 00:00:54,807
+Cargo is the build tool
+and package manager.
+
+19
+00:00:55,192 --> 00:00:59,022
+It compiles, tests, formats and publishes,
+all with one command.
+
+20
+00:01:00,183 --> 00:01:01,933
+Fast, safe and predictable.
+
+21
+00:01:02,373 --> 00:01:04,463
+All of it without a garbage collector.
+

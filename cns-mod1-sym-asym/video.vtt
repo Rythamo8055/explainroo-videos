@@ -1,0 +1,79 @@
+WEBVTT
+
+00:00:00.556 --> 00:00:02.386
+Two ways to lock a message.
+
+00:00:02.891 --> 00:00:05.301
+Same key for both, or a key pair.
+
+00:00:05.826 --> 00:00:07.036
+Each has a job.
+
+00:00:08.789 --> 00:00:10.379
+Symmetric cryptography.
+
+00:00:11.089 --> 00:00:14.319
+One secret key for
+encryption and decryption.
+
+00:00:14.859 --> 00:00:17.289
+Fast, so it is used for bulk data.
+
+00:00:17.819 --> 00:00:20.269
+But the key must be shared safely first.
+
+00:00:22.022 --> 00:00:23.652
+Asymmetric cryptography.
+
+00:00:24.472 --> 00:00:28.362
+A public key and a private key,
+mathematically related.
+
+00:00:28.912 --> 00:00:32.062
+Public encrypts,
+private decrypts for confidentiality.
+
+00:00:33.117 --> 00:00:33.987
+Private signs,
+
+00:00:34.497 --> 00:00:38.387
+public verifies for authentication
+and non-repudiation.
+
+00:00:40.089 --> 00:00:41.359
+Symmetric is fast.
+
+00:00:42.079 --> 00:00:43.529
+Asymmetric is slower.
+
+00:00:44.224 --> 00:00:49.594
+So asymmetric distributes keys and signs;
+symmetric encrypts the data.
+
+00:00:51.256 --> 00:00:52.406
+Symmetric examples:
+
+00:00:52.976 --> 00:00:54.296
+DES, AES,
+
+00:00:54.736 --> 00:00:58.566
+Blowfish, RC5, IDEA, RC4.
+
+00:00:59.051 --> 00:01:00.341
+Asymmetric examples:
+
+00:01:01.011 --> 00:01:04.041
+RSA, ElGamal, knapsack, Diffie-Hellman.
+
+00:01:04.576 --> 00:01:06.846
+Diffie-Hellman is key exchange only.
+
+00:01:08.522 --> 00:01:10.132
+One key or a key pair.
+
+00:01:10.662 --> 00:01:13.732
+Fast bulk data, or safe key distribution.
+
+00:01:14.347 --> 00:01:16.217
+Modern systems use both.
+

@@ -1,0 +1,117 @@
+WEBVTT
+
+00:00:00.556 --> 00:00:02.386
+Cryptography hides meaning.
+
+00:00:02.976 --> 00:00:05.746
+Steganography hides the message itself.
+
+00:00:06.326 --> 00:00:09.576
+The attacker does not even
+know a message exists.
+
+00:00:10.151 --> 00:00:11.321
+Unlike cryptography,
+
+00:00:11.911 --> 00:00:13.801
+it does not scramble the message.
+
+00:00:14.411 --> 00:00:16.361
+It just makes the message invisible.
+
+00:00:18.256 --> 00:00:23.706
+Steganography is the art and science of
+hiding the existence of communication.
+
+00:00:24.451 --> 00:00:27.761
+A message is concealed
+inside another medium.
+
+00:00:28.281 --> 00:00:33.071
+An image, an audio clip, a text file,
+or even a network protocol.
+
+00:00:33.581 --> 00:00:35.731
+Adversaries cannot detect it.
+
+00:00:37.356 --> 00:00:39.506
+Cryptography conceals content.
+
+00:00:40.121 --> 00:00:42.391
+Steganography conceals existence.
+
+00:00:43.146 --> 00:00:45.116
+An encrypted text looks random.
+
+00:00:45.716 --> 00:00:48.806
+A stego image looks
+like an ordinary image.
+
+00:00:49.356 --> 00:00:52.966
+The two goals are different,
+and they are often used together.
+
+00:00:54.656 --> 00:00:56.546
+Linguistic steganography.
+
+00:00:57.126 --> 00:01:00.856
+A null cipher hides words
+inside a harmless sentence.
+
+00:01:01.491 --> 00:01:04.261
+A grille reveals selected
+letters through a mask.
+
+00:01:04.896 --> 00:01:08.206
+Microdots shrink a whole
+page into a tiny dot.
+
+00:01:08.711 --> 00:01:11.001
+The secret hides in the wording itself.
+
+00:01:12.822 --> 00:01:14.352
+Technical steganography.
+
+00:01:15.022 --> 00:01:16.812
+Invisible ink on paper.
+
+00:01:17.427 --> 00:01:20.037
+Tiny characters behind white spaces.
+
+00:01:20.582 --> 00:01:22.652
+Physical tricks, not algorithms.
+
+00:01:23.407 --> 00:01:25.177
+These are the oldest methods.
+
+00:01:26.956 --> 00:01:28.526
+Digital steganography.
+
+00:01:29.156 --> 00:01:33.966
+Least significant bit embedding
+changes the last bits of image pixels.
+
+00:01:34.611 --> 00:01:38.221
+Spread spectrum spreads the
+signal across a wide band.
+
+00:01:38.771 --> 00:01:40.681
+Spam can carry hidden text.
+
+00:01:41.266 --> 00:01:43.156
+The secret hides in the noise.
+
+00:01:44.922 --> 00:01:47.892
+Cryptography says: read this if you can.
+
+00:01:48.422 --> 00:01:51.472
+Steganography says:
+there is nothing to read.
+
+00:01:52.022 --> 00:01:54.752
+Together they give both
+secrecy and stealth.
+
+00:01:55.337 --> 00:01:56.747
+That is the difference.
+

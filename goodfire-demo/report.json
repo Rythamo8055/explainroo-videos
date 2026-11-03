@@ -1,0 +1,53 @@
+{
+  "file": "/home/rythamo/explainroo/videos/goodfire-demo/out/video.mp4",
+  "duration": 78.2,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "codec": "h264"
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  "loudness": {
+    "integrated": -14,
+    "range": 2.4,
+    "truePeak": -1
+  },
+  "blackSegments": [],
+  "silences": [],
+  "speech": {
+    "matchRate": 1,
+    "transcript": "This is an essay from Goodfire about what is really happening inside a neural network. Its claim is simple. The networks are already clean. For years, researchers thought neurons were tangled. One famous neuron seemed to fire for cat faces and the fronts of cars. The leading explanation was superposition, the idea that networks fold unrelated concepts together. Nick Camarotta went back to the evidence. Superposition was the wrong explanation for Inception V1. Ordinary fixes to the architecture made the late layers legible, with no change to model size or training data. The result is striking. In the last layer of inception, V1, 99 to 100 percent of neurons are easy to interpret. In early audits of a 32 billion parameter model, about 90 percent of neurons have one main job. The essay is 65 minutes long, and it links an interactive microscope. There you can browse the network neuron by neuron and judge it yourself. The message is optimistic. We can study networks directly, instead of untangling them first.",
+    "scenes": [
+      {
+        "id": "hook",
+        "matchRate": 1
+      },
+      {
+        "id": "problem",
+        "matchRate": 1
+      },
+      {
+        "id": "finding",
+        "matchRate": 1
+      },
+      {
+        "id": "numbers",
+        "matchRate": 1
+      },
+      {
+        "id": "browse",
+        "matchRate": 1
+      },
+      {
+        "id": "outro",
+        "matchRate": 1
+      }
+    ]
+  },
+  "issues": []
+}

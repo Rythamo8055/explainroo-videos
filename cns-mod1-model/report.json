@@ -1,0 +1,53 @@
+{
+  "file": "/home/rythamo/explainroo/videos/cns-mod1-model/out/video.mp4",
+  "duration": 75.43,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "codec": "h264"
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  "loudness": {
+    "integrated": -14,
+    "range": 3.8,
+    "truePeak": -1.3
+  },
+  "blackSegments": [],
+  "silences": [],
+  "speech": {
+    "matchRate": 0.984,
+    "transcript": "A model for network security. It shows how a secure channel is built, layer by layer, from algorithms and keys. Host and host be sit on an open channel. An attacker may observe, inject, delete or reorder messages. Intermediaries sit in between. The Secure Transfer Protocol has two parts. An algorithm for the transformation, that is encryption, and a method to distribute or generate secrets, that is key management. The model generalizes to any layer. Secure email is application layer. SSL is session layer. ISEC is network layer. Same idea, different layer. A fifth element, trusted third parties, a certificate authority, or a Kerberos server arbitrates trust disputes. Algorithms transform. Keys control them. Trusted parties arbitrate. That is the model behind every secure system.",
+    "scenes": [
+      {
+        "id": "hook",
+        "matchRate": 1
+      },
+      {
+        "id": "hosts",
+        "matchRate": 0.913
+      },
+      {
+        "id": "parts",
+        "matchRate": 1
+      },
+      {
+        "id": "layers",
+        "matchRate": 1
+      },
+      {
+        "id": "ttp",
+        "matchRate": 1
+      },
+      {
+        "id": "outro",
+        "matchRate": 1
+      }
+    ]
+  },
+  "issues": []
+}

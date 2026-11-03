@@ -1,0 +1,127 @@
+1
+00:00:00,556 --> 00:00:02,606
+Security is not one thing.
+
+2
+00:00:03,111 --> 00:00:05,961
+It is a set of services a system provides.
+
+3
+00:00:06,581 --> 00:00:09,411
+X.800 lists six of them.
+
+4
+00:00:11,022 --> 00:00:12,272
+Authentication.
+
+5
+00:00:12,842 --> 00:00:17,392
+Assurance that the communicating
+entity is the one it claims to be.
+
+6
+00:00:17,877 --> 00:00:20,167
+Peer authentication for a connection.
+
+7
+00:00:20,782 --> 00:00:23,912
+Data origin authentication for a message.
+
+8
+00:00:25,689 --> 00:00:26,919
+Access control.
+
+9
+00:00:27,469 --> 00:00:31,039
+Protection against
+unauthorized use of resources.
+
+10
+00:00:31,864 --> 00:00:33,614
+Only the right people get in.
+
+11
+00:00:36,476 --> 00:00:36,776
+Data confidentiality.
+
+12
+00:00:37,536 --> 00:00:41,066
+Protection of transmitted
+data from passive attack.
+
+13
+00:00:41,591 --> 00:00:42,441
+Whole connection,
+
+14
+00:00:42,811 --> 00:00:46,601
+single field,
+or the fact that traffic exists at all.
+
+15
+00:00:49,049 --> 00:00:49,469
+Data integrity.
+
+16
+00:00:50,014 --> 00:00:54,204
+Assurance that the data received
+is exactly the data sent.
+
+17
+00:00:54,699 --> 00:00:57,609
+Nothing added, nothing changed on the way.
+
+18
+00:00:59,289 --> 00:01:00,679
+Non-repudiation.
+
+19
+00:01:01,249 --> 00:01:02,779
+Guards against denial.
+
+20
+00:01:03,384 --> 00:01:05,334
+The sender cannot deny sending.
+
+21
+00:01:05,939 --> 00:01:07,969
+The receiver cannot deny receipt.
+
+22
+00:01:09,756 --> 00:01:11,146
+Availability service.
+
+23
+00:01:11,846 --> 00:01:16,976
+A resource is accessible and usable
+by authorized users when needed.
+
+24
+00:01:17,431 --> 00:01:19,441
+Quality of service matters here.
+
+25
+00:01:21,056 --> 00:01:23,886
+Six services, each answers one attack.
+
+26
+00:01:25,256 --> 00:01:27,306
+Confidentiality against eavesdropping.
+
+27
+00:01:27,771 --> 00:01:29,961
+Integrity against modification.
+
+28
+00:01:30,746 --> 00:01:33,536
+Availability against denial of service.
+
+29
+00:01:34,076 --> 00:01:38,006
+Authentication and access
+control against masquerade.
+
+30
+00:01:38,501 --> 00:01:41,591
+Non-repudiation against repudiation.
+

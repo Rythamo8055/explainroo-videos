@@ -1,0 +1,71 @@
+WEBVTT
+
+00:00:00.556 --> 00:00:02.606
+A model for network security.
+
+00:00:03.141 --> 00:00:08.711
+It shows how a secure channel is built,
+layer by layer, from algorithms and keys.
+
+00:00:10.556 --> 00:00:13.506
+Host A and Host B sit on an open channel.
+
+00:00:13.971 --> 00:00:18.481
+An attacker may observe, inject,
+delete or reorder messages.
+
+00:00:19.111 --> 00:00:21.241
+Intermediaries sit in between.
+
+00:00:22.956 --> 00:00:25.986
+The secure transfer
+protocol has two parts.
+
+00:00:26.591 --> 00:00:28.541
+An algorithm for the transformation,
+
+00:00:29.191 --> 00:00:30.161
+that is encryption.
+
+00:00:30.951 --> 00:00:33.961
+And a method to distribute
+or generate secrets,
+
+00:00:34.551 --> 00:00:35.701
+that is key management.
+
+00:00:37.689 --> 00:00:40.139
+The model generalizes to any layer.
+
+00:00:40.629 --> 00:00:43.199
+Secure email is application layer.
+
+00:00:43.729 --> 00:00:45.399
+SSL is session layer.
+
+00:00:45.939 --> 00:00:47.689
+IPsec is network layer.
+
+00:00:48.259 --> 00:00:50.129
+Same idea, different layer.
+
+00:00:51.856 --> 00:00:54.626
+A fifth element: trusted third parties.
+
+00:00:56.446 --> 00:01:00.136
+A certificate authority or a Kerberos
+server arbitrates trust disputes.
+
+00:01:01.922 --> 00:01:03.552
+Algorithms transform.
+
+00:01:04.107 --> 00:01:05.497
+Keys control them.
+
+00:01:05.972 --> 00:01:07.922
+Trusted parties arbitrate.
+
+00:01:08.407 --> 00:01:11.737
+That is the model behind
+every secure system.
+
